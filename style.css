@@ -1,0 +1,29 @@
+body{font-family: 'Courier New', Courier, monospace;
+background-color: blue;
+text-align: center;
+margin: 0%;
+}
+header{
+    background-color: brown;
+    padding: 25px;
+}
+section{
+    margin: 30px;
+}
+h2{
+    color: azure;
+}
+.projeto{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 15px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 10px 15px 25px red (230, 6, 181)
+
+}
+footer{
+    background-color: bisque;
+    color: rgb(5, 244, 104);
+    margin-top: 30px;
+}
